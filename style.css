@@ -13,12 +13,12 @@ body {
 
 .card {
     display: grid;
-    width: 15rem;
-    height: 15rem;
+    width: 20rem;
+    height: 18rem;
     background-size: cover;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    gap: 0.5rem;
+    gap: 2.5rem;
     padding: 0.5rem;
     overflow: hidden;
     position: relative;
